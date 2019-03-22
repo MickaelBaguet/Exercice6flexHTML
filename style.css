@@ -31,7 +31,6 @@
   display: flex;
   width: 66%;
   flex-wrap: wrap;
-  align-self: flex-end;
 }
 
 #orangeclair
